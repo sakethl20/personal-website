@@ -4,6 +4,10 @@
         margin-bottom: 6rem;
     }
 
+    .section__pic-container {
+        justify-content: center;
+    }
+
     .about-container {
         flex-wrap: wrap;
     }
